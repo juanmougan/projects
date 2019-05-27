@@ -1,6 +1,7 @@
 {
   "ongoing": [
     {
+      "id": 1,
       "description": "A web scraper example using Python",
       "priority": 1,
       "topics": [
@@ -9,6 +10,7 @@
       ]
     },
     {
+      "id": 2,
       "description": "Reading about Android",
       "priority": 2,
       "topics": [
@@ -18,6 +20,7 @@
       ]
     },
     {
+      "id": 3,
       "description": "Create a separate frontend for QuePido app",
       "priority": 3,
       "topics": [
@@ -27,6 +30,7 @@
       ]
     },
     {
+      "id": 4,
       "description": "Some random Ruby stuff (and even Crystal)",
       "priority": 4,
       "topics": [
