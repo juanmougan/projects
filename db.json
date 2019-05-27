@@ -1,1 +1,40 @@
-[{"description":"A web scraper example using Python","priority":1,"topics":["webscraping","Python"]},{"description":"Reading about Android","priority":2,"topics":["mobile","Android","research"]},{"description":"Create a separate frontend for QuePido app","priority":3,"topics":["web-development","frontend","React"]},{"description":"Some random Ruby stuff (and even Crystal)","priority":4,"topics":["web-development","backend","Ruby","Crystal"]}]
+{
+  "ongoing": [
+    {
+      "description": "A web scraper example using Python",
+      "priority": 1,
+      "topics": [
+        "webscraping",
+        "Python"
+      ]
+    },
+    {
+      "description": "Reading about Android",
+      "priority": 2,
+      "topics": [
+        "mobile",
+        "Android",
+        "research"
+      ]
+    },
+    {
+      "description": "Create a separate frontend for QuePido app",
+      "priority": 3,
+      "topics": [
+        "web-development",
+        "frontend",
+        "React"
+      ]
+    },
+    {
+      "description": "Some random Ruby stuff (and even Crystal)",
+      "priority": 4,
+      "topics": [
+        "web-development",
+        "backend",
+        "Ruby",
+        "Crystal"
+      ]
+    }
+  ]
+}
