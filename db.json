@@ -11,6 +11,26 @@
     },
     {
       "id": 2,
+      "description": "Saving webscraper's output in Firestore with Python's SDK",
+      "priority": 1,
+      "topics": [
+        "Google Cloud",
+        "Cloud Firestore",
+        "Python"
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Reading some Java stuff: generics, Stream API, Spring Framework",
+      "priority": 2,
+      "topics": [
+        "Java",
+        "Generics",
+        "Stream API"
+      ]
+    },
+    {
+      "id": 4,
       "description": "Reading about Android",
       "priority": 2,
       "topics": [
@@ -20,7 +40,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "description": "Create a separate frontend for QuePido app",
       "priority": 3,
       "topics": [
@@ -30,7 +50,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "description": "Some random Ruby stuff (and even Crystal)",
       "priority": 4,
       "topics": [
