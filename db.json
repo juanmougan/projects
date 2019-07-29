@@ -21,7 +21,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "description": "Create a separate frontend for QuePido app",
       "priority": 3,
       "topics": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "description": "Some random Ruby stuff (and even Crystal)",
       "priority": 4,
       "topics": [
