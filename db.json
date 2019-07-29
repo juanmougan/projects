@@ -2,21 +2,22 @@
   "ongoing": [
     {
       "id": 1,
-      "description": "A web scraper example using Python",
+      "description": "Typescript: The Complete Developer's Guide (Udemy)",
       "priority": 1,
       "topics": [
-        "webscraping",
-        "Python"
+        "web-development",
+        "frontend",
+        "Typescript"
       ]
     },
     {
       "id": 2,
-      "description": "Reading about Android",
+      "description": "Reviewing Spring",
       "priority": 2,
       "topics": [
-        "mobile",
-        "Android",
-        "research"
+        "Spring",
+        "Java",
+        "backend"
       ]
     },
     {
